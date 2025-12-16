@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Cybersecurity Beginner Guide",
+    "description": "Basic introduction to data protection and security fundamentals.",
+    "file": "https://raw.githubusercontent.com/cyberadmin/cyber-website/main/files/cyber101.pdf"
+  },
+  {
+    "title": "Pen-Testing Tools",
+    "description": "Practical toolkit for penetration testing and vulnerability assessment.",
+    "file": "https://raw.githubusercontent.com/cyberadmin/cyber-website/main/files/pen-testing-tools.zip"
+  }
+]
